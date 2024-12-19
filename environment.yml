@@ -1,4 +1,4 @@
-name: /Users/npasquier/Library/Mobile Documents/com~apple~CloudDocs/Documents/Works/08_AI_vertical/prisoner-dilema-python/prisoner-env
+name: prisoner-env
 channels:
   - defaults
 dependencies:

@@ -8,12 +8,12 @@ This guide explains how to set up the project, manage the Conda environment, and
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/npasquier/q-learning.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd your-repo-name
+   cd q-learning
    ```
 
 3. **Create the Conda Environment:**
@@ -24,7 +24,7 @@ This guide explains how to set up the project, manage the Conda environment, and
 
 4. **Activate the Environment:**
    ```bash
-   conda activate my_env_name
+   conda activate prisoner-env
    ```
    Replace `my_env_name` with the name specified in `environment.yml`.
 
