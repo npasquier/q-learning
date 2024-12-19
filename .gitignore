@@ -1,0 +1,9 @@
+# Ignore Conda environment directory
+prisoner-env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore data files (when needed)
+data/
